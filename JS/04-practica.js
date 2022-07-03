@@ -1,2 +1,2 @@
-console.log('Nombre de usuario')
-prompt('Hola nombre de usuario');
+var nombre = prompt('Escribe tu nombre');
+document.write('hola ' +nombre);
