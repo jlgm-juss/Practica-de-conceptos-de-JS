@@ -1,1 +1,1 @@
-document.write('resultado : '+ (3 + 5))
+document.write('resultado : <br/>'+ (3 + 5))
